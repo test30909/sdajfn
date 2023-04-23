@@ -1,0 +1,32 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.60
+---- System ----
+File Name                       : CSS000167.png
+Directory                       : C:/Users/swara/OneDrive/Pictures
+File Size                       : 111 kB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2022:11:22 00:59:18+05:30
+File Access Date/Time           : 2023:04:15 14:31:05+05:30
+File Creation Date/Time         : 2022:11:22 00:59:04+05:30
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 599
+Image Height                    : 437
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+SRGB Rendering                  : Perceptual
+Gamma                           : 2.2
+---- PNG-pHYs ----
+Pixels Per Unit X               : 4724
+Pixels Per Unit Y               : 4724
+Pixel Units                     : meters
+---- Composite ----
+Image Size                      : 599x437
+Megapixels                      : 0.262
